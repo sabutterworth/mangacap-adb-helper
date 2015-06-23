@@ -9,7 +9,7 @@ To install
 
 2. Open up Google Chrome and go to chrome://extensions/.
 
-3. Click the "Load unpacked extension.." button at the top
+3. Make sure the "Developer Mode" checkbox is checked then click the "Load unpacked extension.." button at the top
 
 4. Browse to the folder you just unzipped and click the "Select" button.
 
